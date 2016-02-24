@@ -422,6 +422,8 @@ will return group ban list
 
 **U can use both "/" and "!" 
 
+سازنده:@shayan31323
+
 
 *Only owner and mods can add bots in group
 
